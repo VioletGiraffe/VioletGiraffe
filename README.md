@@ -6,6 +6,6 @@ Hi, I'm a software engineer, and this is where my pet projects live. Mostly inte
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=VioletGiraffe&show_icons=true&count_private=true&theme=noctis_minimus&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VioletGiraffe&layout=compact&hide_border=true&theme=noctis_minimus&bg_color=00000000&langs_count=6">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VioletGiraffe&layout=compact&hide_border=true&theme=noctis_minimus&bg_color=00000000&langs_count=6&exclude_repo=UEFI-CPP-headers,MCUFRIEND_kbv_ILI9341,TFT_ST7735,SSD_13XX,clinfo,Arduino-Light-Organ">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=VioletGiraffe&theme=noctis_minimus&hide_border=true&background=FFFFFF00">
 </p>
