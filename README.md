@@ -5,6 +5,7 @@ Hi, I'm a software engineer, and this is where my pet projects live. Mostly inte
 * I don't fork other people's repos just for the sake of forking, all the projects in my profile are either my own or I have contributed to them.
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing the syntax of build systems that support C++](https://violetgiraffe.github.io/2023/02/25/cpp-build-systems-syntax-comparison.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
